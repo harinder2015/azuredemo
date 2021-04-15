@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Publishing from Github
+            Publishing from Github repo
         </div>
     </form>
 </body>
